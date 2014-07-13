@@ -1,0 +1,14 @@
+{
+    "name": "andersgegenstroem/testzf2",
+    "description": "A plain zf2 skeleton application for testing reason",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*"
+    }
+}
